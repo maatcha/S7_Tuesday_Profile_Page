@@ -1,0 +1,9 @@
+.btn-round {
+    border-width: 1px;
+    border-radius: 30px !important;
+    padding: 11px 23px;
+    background-color: #043d66;
+    color: #FFFFFF;
+    width: 100%;
+    cursor: crosshair;
+}
